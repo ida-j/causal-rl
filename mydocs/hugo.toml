@@ -1,0 +1,7 @@
+baseURL = 'https://ida-j.github.io/causal-rl/'
+languageCode = 'en-us'
+title = 'Causal RL Exploration'
+theme = "hugo-book"
+publishDir = "docs"
+
+
